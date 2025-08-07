@@ -8,6 +8,10 @@ https://www.viralsciencecreativity.com/post/arduino-led-strip-racing-game-ws2812
 
 https://www.youtube.com/watch?v=GdHTXVzvKrA&t=1s
 
+
+<a href="https://www.youtube.com/watch?v=eP3siKBEIw0" target="_blank"><img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f2b08f10-49ba-4c5b-b45f-fce86aacc527" /></a>
+
+
 https://wokwi.com/projects/438611588127833089
 
 
