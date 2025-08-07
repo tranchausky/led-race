@@ -9,3 +9,8 @@ https://www.viralsciencecreativity.com/post/arduino-led-strip-racing-game-ws2812
 https://www.youtube.com/watch?v=GdHTXVzvKrA&t=1s
 
 https://wokwi.com/projects/438611588127833089
+
+
+120 LED ws2812b
+
+<img width="740" height="452" alt="image" src="https://github.com/user-attachments/assets/7d5f8f4c-1f7f-45e8-8886-ae31112304d5" />
