@@ -7,3 +7,5 @@ https://www.hackster.io/gbarbarov/open-led-race-a0331a?f=1
 https://www.viralsciencecreativity.com/post/arduino-led-strip-racing-game-ws2812b
 
 https://www.youtube.com/watch?v=GdHTXVzvKrA&t=1s
+
+https://wokwi.com/projects/438611588127833089
